@@ -23,6 +23,9 @@ pip install -r requirements.txt
 streamlit run dashboard/dashboard.py
 ```
 
+## Online Demo
+[https://swardanasuta-data-analysis-submission.streamlit.app](https://swardanasuta-data-analysis-submission.streamlit.app)
+
 ## Preview
 ![Preview 1](https://github.com/agusswardanaa/data-analysis-submission/blob/main/assets/preview-1.png)
 ![Preview 2](https://github.com/agusswardanaa/data-analysis-submission/blob/main/assets/preview-2.png)
