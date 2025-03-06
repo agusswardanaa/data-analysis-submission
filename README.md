@@ -24,3 +24,5 @@ streamlit run dashboard/dashboard.py
 ```
 
 ## Preview
+![Preview 1](https://github.com/agusswardanaa/data-analysis-submission/blob/main/assets/preview-1.png)
+![Preview 2](https://github.com/agusswardanaa/data-analysis-submission/blob/main/assets/preview-2.png)
